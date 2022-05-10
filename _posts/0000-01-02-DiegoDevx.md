@@ -2,4 +2,15 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Commit on branch
+
+## HTTP Methods
+
+- GET
+- POST
+- PUT
+- PATCH
+- DELETE
+- HEAD
+- OPTIONS
+- TRACE
+- CONNECT
